@@ -58,3 +58,9 @@ To build a traffic signal using an Arduino Uno that allows pedestrians to safely
   - The buzzer sounds to indicate it is safe to cross.
 - The system then resumes its normal cycle.
 - Video demonstration of the same is availble in the repo
+
+---
+
+## Note
+
+This project is a joint collaboration with Shravasti Sarkar as a part of FCSD course at RVCE
